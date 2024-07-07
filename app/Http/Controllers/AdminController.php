@@ -75,8 +75,8 @@ class AdminController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    // public function destroy(Admin $admin)
-    // {
-    //     //
-    // }
+    public function destroy(Admin $admin)
+    {
+        //
+    }
 }
