@@ -24,7 +24,7 @@ class AdminController extends Controller
     }
 
     /**
-     * Show the form for creating a new resource.
+     * Show the form for creating a new resource.,,,,,,,
      */
     public function create()
     {
@@ -75,8 +75,8 @@ class AdminController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Admin $admin)
-    {
-        //
-    }
+    // public function destroy(Admin $admin)
+    // {
+    //     //
+    // }
 }
